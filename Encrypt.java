@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Encrypt {
+public class Crypt {
     //create a function to encrypt or decrypt the input text
     public static String encrypt(String txt,int s){
         StringBuilder sb = new StringBuilder();
